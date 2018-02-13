@@ -6,4 +6,4 @@ Spring applications rely on loaded dependencies to perform their work.  It can b
 
 This test loads the application context locally allowing you to validate that your dependcies, controller, etc. have loaded correctly.
 
-![alt text][Context Loads.png]
+![Screenshot](Context Loads.png)
